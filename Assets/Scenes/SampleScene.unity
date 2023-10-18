@@ -984,7 +984,6 @@ GameObject:
   m_Component:
   - component: {fileID: 36094584}
   - component: {fileID: 36094583}
-  - component: {fileID: 36094582}
   m_Layer: 0
   m_Name: Ghost_2
   m_TagString: Untagged
@@ -992,26 +991,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &36094582
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 36094581}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ef29d94c7ddcc4a5eaa861b9b8b94f6e, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
 --- !u!212 &36094583
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29256,7 +29235,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1079427989}
   - component: {fileID: 1079427988}
-  - component: {fileID: 1079427987}
   m_Layer: 0
   m_Name: Ghost_0
   m_TagString: Untagged
@@ -29264,26 +29242,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &1079427987
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1079427986}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ef29d94c7ddcc4a5eaa861b9b8b94f6e, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
 --- !u!212 &1079427988
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -30789,7 +30747,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1127635431}
   - component: {fileID: 1127635430}
-  - component: {fileID: 1127635429}
   m_Layer: 0
   m_Name: Ghost_3
   m_TagString: Untagged
@@ -30797,26 +30754,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &1127635429
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1127635428}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ef29d94c7ddcc4a5eaa861b9b8b94f6e, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
 --- !u!212 &1127635430
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -32606,7 +32543,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1216727886}
   - component: {fileID: 1216727885}
-  - component: {fileID: 1216727884}
   m_Layer: 0
   m_Name: Ghost_1
   m_TagString: Untagged
@@ -32614,26 +32550,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &1216727884
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1216727883}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ef29d94c7ddcc4a5eaa861b9b8b94f6e, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
 --- !u!212 &1216727885
 SpriteRenderer:
   m_ObjectHideFlags: 0
